@@ -44,7 +44,7 @@ let map;
 
     //  completeRequest
     //      a Unicorn has been dispatched to your location
-    var unicornName =['Jean-Charles1','Jean-Charles2','Jean-Charles3']; // new implementation
+  
     function completeRequest(result, pickupLocation) {
         var unicorn;
         var pronoun;
